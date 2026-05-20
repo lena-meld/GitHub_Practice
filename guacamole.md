@@ -4,4 +4,4 @@
 * lime - 50¢
 * salt - $1.50
 ## Instructions
-* put one avocado into a bowl
+* peel the avocados
